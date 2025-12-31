@@ -25,24 +25,32 @@ I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB,
 ## 🌐 Connect with me
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/mahosin-islam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" />
+  <!-- Facebook (Blue) -->
+  <a href="https://web.facebook.com/mahsin.islam.549" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
+      height="40"
+      style="filter: invert(29%) sepia(96%) saturate(746%) hue-rotate(187deg) brightness(92%) contrast(101%);" />
   </a>
 
-  <!-- Twitter / X -->
+  <!-- Twitter / X (Black) -->
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"
+      height="40"
+      style="filter: invert(0%);" />
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (Blue) -->
   <a href="https://www.linkedin.com/in/mahosin-islam/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      height="40"
+      style="filter: invert(30%) sepia(77%) saturate(747%) hue-rotate(176deg) brightness(95%) contrast(92%);" />
   </a>
 
-  <!-- Email -->
+  <!-- Gmail (Red) -->
   <a href="mailto:mahosin.dev@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      height="40"
+      style="filter: invert(34%) sepia(89%) saturate(629%) hue-rotate(340deg) brightness(95%) contrast(92%);" />
   </a>
 
 </div>
