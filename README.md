@@ -23,10 +23,29 @@ I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB,
 
 
 ## 🌐 Connect with me
-<a hret="https://web.facebook.com/mahsin.islam.549">[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahosin-islam) </a>
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahosin-islam/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahosin.dev@gmail.com)
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/mahosin-islam" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mahosin-islam/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mahosin.dev@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" />
+  </a>
+
+</div>
 
 
 
