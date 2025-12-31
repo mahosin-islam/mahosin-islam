@@ -13,18 +13,12 @@ I’m a beginner-level MERN Stack Developer with hands-on experience building re
 I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, and Next.js, and I focus on writing clear, maintainable code that follows best practices. I believe good code is not just about working solutions, but also about readability, scalability, and teamwork.
 
 
+## 🌐 Connect with me
 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" style="filter: invert(29%) sepia(96%) saturate(746%) hue-rotate(187deg) brightness(92%) contrast(101%);" />](https://www.facebook.com/mahosin-islam)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40" style="filter: invert(39%) sepia(98%) saturate(749%) hue-rotate(176deg) brightness(96%) contrast(96%);" />](https://twitter.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" style="filter: invert(30%) sepia(77%) saturate(747%) hue-rotate(176deg) brightness(95%) contrast(92%);" />](https://www.linkedin.com/in/mahosin-islam/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" style="filter: invert(34%) sepia(89%) saturate(629%) hue-rotate(340deg) brightness(95%) contrast(92%);" />](mailto:mahosin.dev@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahosin-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahosin-islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahosin-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://treemini-shop.pages.dev/)  
-
-                                         
-
-## 📬 Contact Me
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" />](https://github.com/mahosin-islam)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" />](https://www.linkedin.com/in/mahosin-islam/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" />](https://www.facebook.com/mahosin-islam)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" />](mailto:mahosin.dev@gmail.com)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="40" />](https://treemini-shop.pages.dev/)
 
 
