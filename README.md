@@ -19,5 +19,5 @@ I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB,
 
                                          
 contact me
-<img src="https://i.ibb.co.com/q3gb97LF/reac.png"><img>
+
 
