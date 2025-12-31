@@ -12,12 +12,14 @@ I’m a beginner-level MERN Stack Developer with hands-on experience building re
 
 I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB, and Next.js, and I focus on writing clear, maintainable code that follows best practices. I believe good code is not just about working solutions, but also about readability, scalability, and teamwork.
 ## 🛠 Skills
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/firebase/firebase-plain.svg" height="40" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/firebase/firebase-plain.svg" height="40"/>
 
 
 ## 🌐 Connect with me
