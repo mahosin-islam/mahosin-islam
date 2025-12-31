@@ -19,5 +19,12 @@ I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB,
 
                                          
 
+## 📬 Contact Me
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40" />](https://github.com/mahosin-islam)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" />](https://www.linkedin.com/in/mahosin-islam/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" />](https://www.facebook.com/mahosin-islam)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" />](mailto:mahosin.dev@gmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="40" />](https://treemini-shop.pages.dev/)
 
 
