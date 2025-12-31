@@ -14,11 +14,11 @@ I have worked with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, MongoDB,
 
 
 ## 🌐 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahosin-islam)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahosin-islam/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahosin.dev@gmail.com)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" style="filter: invert(29%) sepia(96%) saturate(746%) hue-rotate(187deg) brightness(92%) contrast(101%);" />](https://www.facebook.com/mahosin-islam)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40" style="filter: invert(39%) sepia(98%) saturate(749%) hue-rotate(176deg) brightness(96%) contrast(96%);" />](https://twitter.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" style="filter: invert(30%) sepia(77%) saturate(747%) hue-rotate(176deg) brightness(95%) contrast(92%);" />](https://www.linkedin.com/in/mahosin-islam/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" style="filter: invert(34%) sepia(89%) saturate(629%) hue-rotate(340deg) brightness(95%) contrast(92%);" />](mailto:mahosin.dev@gmail.com)
 
 
 
