@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHNuVQ54So7ng/profile-displaybackgroundimage-shrink_350_1400/B56Zvg4QtAIQAc-/0/1769004407270?e=1770854400&v=beta&t=1H3yZoBWcs5jxGPpOEOyP87ujfJfQcMVkJlZG2r9T2I"><img>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHNuVQ54So7ng/profile-displaybackgroundimage-shrink_350_1400/B56Zvg4QtAIQAc-/0/1769004407270?e=1772668800&v=beta&t=fM3BoVRIHfl1tBfVJWmyWaz5VAfH-DWMdh9rgo9CFp0"><img>
 
 
 <!-- ================= Header / Hero ================= -->
