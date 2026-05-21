@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHNuVQ54So7ng/profile-displaybackgroundimage-shrink_350_1400/B56Zvg4QtAIQAc-/0/1769004407270?e=1772668800&v=beta&t=fM3BoVRIHfl1tBfVJWmyWaz5VAfH-DWMdh9rgo9CFp0"><img>
+<img src="https://i.ibb.co.com/NhrXLPg/Gemini-Generated-Image-71bjgx71bjgx71bj.png"><img>
 
 
 <!-- ================= Header / Hero ================= -->
