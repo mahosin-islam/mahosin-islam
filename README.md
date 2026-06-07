@@ -61,6 +61,10 @@ I’m a passionate MERN Stack Developer with hands-on experience in **HTML, CSS,
 
 </div>
 
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahosin-islam&abbreviated=true" alt="Profile views" />
+</p>
+
 ---
 
 ## 💼 Experience
